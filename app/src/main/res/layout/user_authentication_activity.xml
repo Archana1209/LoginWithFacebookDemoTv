@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/fb_background"
+            tools:context=".ui.activity.UserAuthenticationActivity">
+
+        <LinearLayout
+                android:id="@+id/rlFacebookLogin"
+                android:layout_width="400dp"
+                android:layout_height="90dp"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/facebook_login_button_selecter"
+                android:gravity="center"
+                android:focusableInTouchMode="true"
+                android:focusable="true">
+
+            <ImageView
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@drawable/facebook_icon"
+                    android:tint="#FFFFFF"/>
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/rounded_button1"
+                    android:text="@string/facebook"
+                    android:textColor="#fff"
+                    android:textSize="20dp"
+                    android:textStyle="bold"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</layout>
