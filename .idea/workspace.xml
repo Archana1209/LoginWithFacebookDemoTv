@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="tv_720p" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a54219b-a1a3-4b31-a4f3-359b76cd0dfd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LoginWithFacebookDemoTv" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LoginWithFacebookDemoTv" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LoginWithFacebookDemoTv" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LoginWithFacebookDemoTv" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>authenticationCodeDialogFragment</find>
+      <find>!!</find>
+      <find>getFacebookUserProfile</find>
+      <find>appcompat</find>
+      <find>constraint</find>
+      <find>android.support.constraint</find>
+      <find>userAuthenticationCode</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Mlionts\Arch2\LoginWithFacebookDemoTv\app\src\main\res\values</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/networking/ApiInterceptor.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/repository/SplashRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/repository/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/viewmodel/SplashActivityViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/RequetConfig.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/loginresponse/LoginResponse.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/loginresponse/Error.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/loginstatusresponse/LoginStatusResponse.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/loginstatusresponse/Error.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/callbacks/FacebookLoginCallback.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/callbacks/FacebookLoginStatusCallback.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/callbacks/FacebookUserProfileCallback.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/manager/DataRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/viewmodel/LoginActivityViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/FacebookActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/ui/FullDescriptionDialogFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/full_description_dialog.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/loginresponse/LoginResponse.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/loginresponse/Error.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/callbacks/UserAuthenticationCodeCallback.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/ui/fragments/FullDescriptionDialogFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/continue_selected.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/facebookuserprofileresponse/Picture.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/facebookuserprofileresponse/FacebookUserProfileResponse.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/facebookuserprofileresponse/Error.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/facebookuserprofileresponse/Data.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/repository/LoginActivityRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/ui/activity/FacebookActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/manager/ApiManager.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/ApiInterface.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_close_black_24dp.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/cancel_btn_selector.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/ui/fragments/UserProfileDialogFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/authentication_code_dialog.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/ui/fragments/AuthenticationCodeDialogFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/facebook_login_button_background.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/facebook_icon.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/ui/activity/UserAuthenticationActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/DemoAppApplication.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/database/FbForDevicePreferences.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/database/BaseAppPreferences.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/user_profile_dialog.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/user_authentication_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/networking/ApiManager.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/color.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/AppLevelConstants.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LoginWithFacebookDemoTv" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="samsung-sm_t331-902d306404ed86a1" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.loginwithfacebookdemotv" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="4eb5536a" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.loginwithfacebookdemotv" />
+      <recent name="com.example.loginwithfacebookdemotv.ui.fragments" />
+      <recent name="com.example.loginwithfacebookdemotv.callbacks" />
+      <recent name="com.example.loginwithfacebookdemotv.ui" />
+      <recent name="com.example.loginwithfacebookdemotv.responsebean" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.example.loginwithfacebookdemotv.ui.activity" />
+      <recent name="com.example.loginwithfacebookdemotv" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.loginwithfacebookdemotv.networking" />
+      <recent name="com.example.loginwithfacebookdemotv.ui.activity" />
+      <recent name="com.example.loginwithfacebookdemotv.ui.fragments" />
+      <recent name="com.example.loginwithfacebookdemotv.ui" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.loginwithfacebookdemotv" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mlionts\Arch2\LoginWithFacebookDemoTv\app\src\main\java\com\example\loginwithfacebookdemotv\database" />
+      <recent name="C:\Users\Mlionts\Arch2\LoginWithFacebookDemoTv\app\src\main\res\drawable" />
+      <recent name="C:\Users\Mlionts\Arch2\LoginWithFacebookDemoTv\app\src\main\res\layout" />
+      <recent name="C:\Users\Mlionts\Arch2\LoginWithFacebookDemoTv\app\src\main\java\com\example\loginwithfacebookdemotv\manager" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginWithFacebookDemoTv:app [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.LoginWithFacebookDemoTv:app [signingReport]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a54219b-a1a3-4b31-a4f3-359b76cd0dfd" name="Default Changelist" comment="" />
+      <created>1564394310400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564394310400</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" show_stripe_button="false" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" show_stripe_button="false" weight="0.3295302" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info content_ui="combo" id="Project" order="8" visible="true" weight="0.21342282" />
+      <window_info anchor="bottom" id="Messages" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.329429" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.6427526" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.329429" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49932885" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50067115" side_tool="true" weight="0.4216691" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.73352855" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.329429" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.24295302" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/Error.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/LoginResponse.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/RequetConfig.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/loginresponse/Error.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/loginresponse/LoginResponse.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/loginstatusresponse/Error.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/loginstatusresponse/LoginStatusResponse.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/callbacks/FacebookUserProfileCallback.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+          <folding>
+            <element signature="e#55#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/callbacks/FacebookLoginStatusCallback.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/loginresponse/Error.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#72#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/callbacks/FacebookLoginCallback.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/continue_selected.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/loginresponse/FacebookLoginResponse.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <element signature="e#72#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/facebookuserprofileresponse/Data.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="e#86#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/facebookuserprofileresponse/Error.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="e#86#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/facebookuserprofileresponse/FacebookUserProfileResponse.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="e#86#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/responsebean/facebookuserprofileresponse/Picture.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="e#86#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/10e46125b866117ae556f88fb630a8ec/jars/classes.jar!/android/support/v4/app/DialogFragment.class" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/callbacks/UserAuthenticationCodeCallback.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/viewmodel/UserAuthenticationActivityViewModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_close_black_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_close_black.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/cancel_btn_selector.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/facebook_login_button_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/rounded_button1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/facebook_icon.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/facebook_login_button_selecter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/user_authentication_activity.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/networking/ApiInterceptor.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/database/FbForDevicePreferences.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/database/BaseAppPreferences.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/networking/FacebookApiInterface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/manager/DataRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/networking/RequetConfig.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/networking/ApiManager.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/DemoAppApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/color.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding>
+            <element signature="e#689#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/user_profile_dialog.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="102" column="58" selection-start-line="102" selection-start-column="58" selection-end-line="102" selection-end-column="58" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/ui/fragments/UserProfileDialogFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="45" column="88" lean-forward="true" selection-start-line="45" selection-start-column="88" selection-end-line="45" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/authentication_code_dialog.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
+          <folding>
+            <element signature="e#3933#3962#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/ui/fragments/AuthenticationCodeDialogFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="49" column="74" lean-forward="true" selection-start-line="49" selection-start-column="74" selection-end-line="49" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/AppLevelConstants.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/repository/UserAuthenticationActivityRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/loginwithfacebookdemotv/ui/activity/UserAuthenticationActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="102" column="71" selection-start-line="102" selection-start-column="71" selection-end-line="102" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
